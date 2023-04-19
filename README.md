@@ -14,7 +14,7 @@ The total amount of 5-star vine reviews were 48, and total amount of 5-star norm
 The percentage of 5-star vine reviews was 51.06%, and the percentage of 5-star vine reviews was 38.7%
 
 ## Summary
-There seems to be some bias for the Vine reviews to be 5-stars more often the normal reviews, but I would recommend that more vine reviews be tested since there is not enough vine reviews compared to the normal reviews to come to a complete conclusion.
+There seems to be some bias for the Vine reviews to be 5-stars more often the normal reviews based off the 38% of normal reviews being 5-star vs the 51% of vine reivews being 5-star. However, I would recommend that more vine reviews be tested since there is not enough vine reviews compared to the normal reviews to come to a complete conclusion.
 
 Another test for bias would be to see the average amount of votes the vine reviews have vs the normal reviews. If the vine reviews are getting more votes, then there may be an indication that the vine reviews are seen more than normal views. Amazon could be showing customers the vine reviews and pushing those ahead of normal reviews which is biased.
 
